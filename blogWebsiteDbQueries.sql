@@ -1,6 +1,6 @@
 -- Database Creation and use Query
--- create database blogwebsite;
--- use blogwebsite;
+create database blogwebsite;
+use blogwebsite;
 
 
 -- Table Drop Queries
